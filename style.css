@@ -1,0 +1,47 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.cabeca {
+    width: 100%;
+    height: auto;
+}
+
+.menu {
+    text-align: center;
+    background-color: #FBB040;
+    padding: 0;
+}
+
+.menu li {
+    display: inline;
+}
+
+.menu li a {
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+    padding: 12px;
+    display: inline-block;
+}
+
+.menu li a:hover {
+    transition-duration: 1s;
+    color: black;
+    background-color: #ffbf5f;
+}
+
+main {
+    padding: 0;
+    margin: 0;
+}
+
+footer {
+    background-color: #FBB040;
+    text-align: center;
+}
+
+footer p {
+    margin: 0;
+}
